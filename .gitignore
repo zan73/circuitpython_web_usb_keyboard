@@ -2,3 +2,4 @@ flash files/*
 lib/*
 old/*
 settings.toml
+*/.DS_Store
