@@ -1,5 +1,7 @@
 # Pico 2W CircuitPython Web-accessible Keystroke Sender
 
+A simple CircuitPython project to send keystrokes to a USB-connected device via the web. Should work with most devices however will not send keystrokes to a Mac at FileVault login (cold boot). For MacOS FileVault login, see my Arduino-based project [https://github.com/zan73/web_usb_keyboard].
+
 Follow these steps to set up your Raspberry Pi Pico 2W with CircuitPython and the required libraries:
 
 ## 1. Download and Flash CircuitPython
