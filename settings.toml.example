@@ -1,0 +1,4 @@
+CIRCUITPY_WIFI_SSID="wifi_ssid"
+CIRCUITPY_WIFI_PASSWORD="wifi_password"
+WEB_USER="admin"
+WEB_PASSWORD="password"
